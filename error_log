@@ -1,0 +1,54 @@
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 6
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 6
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/rpaxis21/public_html/index.php on line 7
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/top.php on line 22
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/top.php on line 22
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/top.php on line 23
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/top.php on line 23
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/top.php on line 104
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/top.php on line 104
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/top.php on line 105
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/top.php on line 105
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 42
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 42
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 43
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 43
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 72
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 72
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 73
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 73
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 132
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 132
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 133
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 133
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 182
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 182
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 183
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 183
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 259
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 259
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 260
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 260
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 286
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 286
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 287
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 287
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 394
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 394
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 395
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 395
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 421
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 421
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/index.php on line 422
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_affected_rows(): A link to the server could not be established in /home/rpaxis21/public_html/index.php on line 422
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/footer.php on line 8
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/footer.php on line 8
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rpaxis21/public_html/footer.php on line 9
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/rpaxis21/public_html/footer.php on line 19
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rpaxis21/public_html/footer.php on line 19
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rpaxis21/public_html/footer.php on line 20
+[11-Jul-2022 09:45:37 America/New_York] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/rpaxis21/public_html/dbclose.php on line 1
+[12-Jul-2022 07:42:42 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/rpaxis21/public_html/index.php on line 558
+[12-Jul-2022 07:48:26 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/rpaxis21/public_html/index.php on line 107
+[12-Jul-2022 09:04:03 America/New_York] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php56/sess_f2a4c67732e60db4acf597a3a0b9edc1, O_RDWR) failed: Permission denied (13) in /home/rpaxis21/public_html/ajax_validation.php on line 1
+[12-Jul-2022 09:04:03 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rpaxis21/public_html/ajax_validation.php:1) in /home/rpaxis21/public_html/ajax_validation.php on line 1
